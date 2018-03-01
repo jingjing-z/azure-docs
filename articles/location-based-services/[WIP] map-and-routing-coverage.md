@@ -58,7 +58,7 @@ Check out Market Coverage for **Traffic** [here](traffic-coverage.md).
 |Uruguay|✓|✓|
 |Venezuela|✓|✓|
 |     |         |         |
-|**Asia Pacific**|
+ |**Asia Pacific**|
 |Australia|✓|✓|
 |Brunei|✓|✓|
 |Guam|✓|✓|
