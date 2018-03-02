@@ -1,3 +1,4 @@
+
 # Azure Location Based Services - Routing Coverage
 
 Check out Market Coverage for **Geocoding** [here](geocoding-coverage.md).
@@ -5,6 +6,7 @@ Check out Market Coverage for **Geocoding** [here](geocoding-coverage.md).
 Check out Market Coverage for **Traffic** [here](traffic-coverage.md).
 
 Legend
+
 | Symbol             | Meaning                                |
 |--------------------|----------------------------------------|
 | ✓                  | Country provided with detailed data.   |
