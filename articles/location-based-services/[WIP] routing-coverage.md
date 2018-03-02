@@ -1,10 +1,16 @@
-# Azure Location Based Services - Map and Routing Coverage
-
-See below the geographical regions in which Azure Location Based Services APIs are available.
+# Azure Location Based Services - Routing Coverage
 
 Check out Market Coverage for **Geocoding** [here](geocoding-coverage.md).
 
 Check out Market Coverage for **Traffic** [here](traffic-coverage.md).
+
+Legend
+| Symbol             | Meaning                                |
+|--------------------|----------------------------------------|
+| ✓                  | Country provided with detailed data.   |
+| Ø                  | Country provided with simplified data. |
+| Country is missing | Country data is not provided.          |
+
 
 |Region|Route|Render|
 |--- |--- |--- |
