@@ -50,6 +50,7 @@ In the limits below, a new table has been added to reflect any differences in li
 * [Automation](#automation-limits)
 * [Azure Cosmos DB](#azure-cosmos-db-limits)
 * [Azure Event Grid](#azure-event-grid-limits)
+* [Azure Maps](#maps-limits)
 * [Azure Redis Cache](#azure-redis-cache-limits)
 * [Backup](#backup-limits)
 * [Batch](#batch-limits)
@@ -307,6 +308,9 @@ To learn more about limits on a more granular level, such as document size, quer
 
 ### Automation limits
 [!INCLUDE [automation-limits](../includes/azure-automation-service-limits.md)]
+
+### Azure Maps limits
+[!INCLUDE [maps-limits](../includes/maps-limits.md)]
 
 ### SQL Database limits
 For SQL Database limits, see [SQL Database Resource Limits](sql-database/sql-database-resource-limits.md).
